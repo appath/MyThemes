@@ -1,4 +1,4 @@
-Theme: Fram
+Theme: Farm...
 
 I have wanted to do for a long time, but not as hands did not reach.
 
@@ -15,4 +15,4 @@ Font used:
         .  scrot
         .. rxvt and vim...
 
-http://boris241.deviantart.com/art/Openbox-Farm-684852119
+[Image Screenshots](http://boris241.deviantart.com/art/Openbox-Farm-684852119)
