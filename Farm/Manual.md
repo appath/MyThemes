@@ -1,3 +1,5 @@
+Theme: Fram
+
 I have wanted to do for a long time, but not as hands did not reach.
 
 In general, a small farm, on 'archlinux for the basis 'Openbox.
@@ -12,3 +14,5 @@ Font used:
          . feh
         .  scrot
         .. rxvt and vim...
+
+http://boris241.deviantart.com/art/Openbox-Farm-684852119
