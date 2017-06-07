@@ -15,4 +15,4 @@ Font used:
         .  scrot
         .. rxvt and vim...
 
-[Image Screenshots](http://boris241.deviantart.com/art/Openbox-Farm-684852119)
+[..Screenshots](http://boris241.deviantart.com/art/Openbox-Farm-684852119)
