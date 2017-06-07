@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openbox_menu xmlns="http://openbox.org/3.4/menu">
+	<menu id="apps-mining-menu" label="Mining">
+		<item label="Bot Bitcoin">
+			<action name="Execute">
+				<execute>command</execute>
+			</action>
+		</item>
+		<item label="Single pool:">
+			<action name="Execute">
+				<execute>command</execute>
+			</action>
+		</item>
+		<item label="Multiple pool:">
+			<action name="Execute">
+				<execute>command</execute>
+			</action>
+		</item>
+	</menu>
+	<menu id="apps-editors-menu" label="Editors">
+		<item label="Atom">
+			<action name="Execute">
+				<command>gedit</command>
+				<startupnotify>
+					<enabled>yes</enabled>
+				</startupnotify>
+			</action>
+		</item>
+		<item label="Brackets">
+			<action name="Execute">
+				<execute>command</execute>
+			</action>
+		</item>
+		<item label="Sublime Text">
+			<action name="Execute">
+				<execute>command</execute>
+			</action>
+		</item>
+	</menu>
+	<menu id="apps-multimedia-menu" label="Multimedia">
+		<item label="MPlayer">
+			<action name="Execute">
+				<command>gmplayer</command>
+				<startupnotify>
+					<enabled>yes</enabled>
+					<wmclass>MPlayer</wmclass>
+				</startupnotify>
+			</action>
+		</item>
+		<item label="Transmission">
+			<action name="Execute">
+				<command>totem</command>
+				<startupnotify>
+					<enabled>yes</enabled>
+				</startupnotify>
+			</action>
+		</item>
+	</menu>
+	<menu id="apps-graphics-menu" label="Graphics">
+		<item label="Gimp">
+			<action name="Execute">
+				<command>gimp</command>
+				<startupnotify>
+					<enabled>yes</enabled>
+				</startupnotify>
+			</action>
+		</item>
+		<item label="Krita">
+			<action name="Execute">
+				<execute>command</execute>
+			</action>
+		</item>
+		<item label="Blender">
+			<action name="Execute">
+				<execute>command</execute>
+			</action>
+		</item>
+		<item label="Inkscape">
+			<action name="Execute">
+				<command>inkscape</command>
+				<startupnotify>
+					<enabled>yes</enabled>
+				</startupnotify>
+			</action>
+		</item>
+	</menu>
+	<menu id="system-menu" label=": System">
+		<item label="Openbox Editor Menu">
+			<action name="Execute">
+				<execute>obmenu</execute>
+			</action>
+		</item>
+		<item label="Openbox Configuration">
+			<action name="Execute">
+				<command>obconf</command>
+				<startupnotify>
+					<enabled>yes</enabled>
+				</startupnotify>
+			</action>
+		</item>
+		<menu id="system-menu-0001" label="Components">
+			<item label="Pipette*">
+				<action name="Execute">
+					<execute>command</execute>
+				</action>
+			</item>
+			<item label="inSSIDer#">
+				<action name="Execute">
+					<execute>command</execute>
+				</action>
+			</item>
+			<item label="File Manager">
+				<action name="Execute">
+					<execute>command </execute>
+				</action>
+			</item>
+		</menu>
+		<separator/>
+		<item label="Reconfigure Openbox">
+			<action name="Reconfigure"/>
+		</item>
+	</menu>
+	<menu id="root-menu" label="Openbox 3">
+		<separator label="Applications"/>
+		<item label="Web Browser">
+			<action name="Execute">
+				<execute>luakit</execute>
+			</action>
+		</item>
+		<item label="urxvt :.">
+			<action name="Execute">
+				<execute>urxvt</execute>
+			</action>
+		</item>
+		<item label="SSH">
+			<action name="Execute">
+				<execute>command</execute>
+			</action>
+		</item>
+		<menu id="apps-mining-menu"/>
+		<menu id="apps-editors-menu"/>
+		<menu id="apps-graphics-menu"/>
+		<menu id="apps-multimedia-menu"/>
+		<menu id="system-menu"/>
+		<separator/>
+		<item label="Shutdown">
+			<action name="Execute">
+				<execute>urxvt -g 116x24 -e sudo poweroff</execute>
+			</action>
+		</item>
+		<item label="Reboot">
+			<action name="Execute">
+				<execute>urxvt -g 116x24 -e sudo reboot</execute>
+			</action>
+		</item>
+		<item label="Exit ==">
+			<action name="Exit"/>
+		</item>
+	</menu>
+</openbox_menu>

@@ -1,0 +1,13 @@
+# GitHub
+#include "/home/user/bin/colors/terms"
+! perl extensions (tabs, clickable URLs, yankable URLs)
+*perl-ext-common: 	...,tabbed,...
+*tabbed.tabbar-fg:	-2
+*tabbed.tabbar-bg:	-1
+*tabbed.tab-fg:		-1
+*tabbed.tab-bg:		-2
+*scrollBar:		false
+*geometry:		116x24
+*internalBorder:	5
+!*font:			
+!*boldFont:		
