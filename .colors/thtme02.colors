@@ -1,0 +1,29 @@
+# GitHub
+*.foreground:     #ddeedd
+*.background:     #1c1c1c
+#*.colorBD:
+#*.colorUL:
+# Black
+*color0:          #1c1c1c
+*color8:          #4d4d4d
+# Red
+*color1:          #a0c0e0
+*color9:          #6080a0
+# Green
+*color2:          #6080c0
+*color10:         #0040a0
+# Yellow
+*color3:          #4060c0
+*color11:         #4060a0
+# Blue
+*color4:          #66AABB
+*color12:         #AACCBB
+# Magenta
+*color5:          #e0f0f0
+*color13:         #2060c0
+# Cyan
+*color6:          #5E7175
+*color14:         #a3babf
+# White
+*color7:          #ddeedd
+*color15:         #6c887a
