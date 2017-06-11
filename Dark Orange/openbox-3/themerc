@@ -1,0 +1,81 @@
+# GitHub 2017
+# Copy of the topic. I recovered a copy of Boris241
+# Did not borther, full copy. If you are interested you can change.
+# Dark Orange.
+
+# Menu Settings
+
+menu.title.bg: Raised Gradient Vertical
+menu.title.bg.color: #000000
+menu.title.text.color: #777777
+menu.title.text.justify: Left
+
+menu.items.bg: Gradient Vertical Border
+menu.items.bg.color: #212121
+menu.items.bg.colorTo: #121212
+menu.items.text.color: #777777
+menu.items.disabled.text.color: #0e0e0e
+
+menu.items.active.bg: Flat Gradient Vertical Border
+menu.items.active.bg.color: #ffda01
+menu.items.active.bg.colorTo: #e98101
+menu.items.active.bg.border.color: #ae5c01
+menu.items.active.text.color: #0e0e0e
+
+# Active
+
+window.active.title.bg: Flat Gradient Vertical Border 
+window.active.title.bg.color: #ffda01
+window.active.title.bg.colorTo: #e98101
+window.active.title.bg.border.color: #af6101
+
+window.active.label.bg: Parentrelative
+window.active.label.text.color: #ffffff
+
+window.active.handle.bg: Parentrelative
+window.active.handle.bg.color: #222222
+window.active.handle.bg.colorTo: #191919
+
+window.active.grip.bg: Raised Gradient Vertical
+window.active.grip.bg.color: #222222
+window.active.grip.bg.colorTo: #191919
+
+window.active.button.*.bg: parentrelative
+window.active.button.*.image.color: #ffffff
+
+# Inactive
+
+window.inactive.title.bg: Flat Gradient Vertical Border
+window.inactive.title.bg.color: #212121
+window.inactive.title.bg.colorTo: #141414
+window.inactive.title.bg.border.color: #121212
+
+window.inactive.label.bg: Parentrelative
+window.inactive.label.text.color: #999991
+
+window.inactive.handle.bg: Raised Gradient Vertical
+window.inactive.handle.bg.color: #090909
+window.inactive.handle.bg.colorTo: #090909
+
+window.inactive.grip.bg: Raised Gradient Vertical
+window.inactive.grip.bg.color: #131313
+window.inactive.grip.bg.colorTo: #0f0f0f
+
+window.inactive.button.*.bg: Parentrelative
+window.inactive.button.*.image.color:  #999993
+
+# Everything Else
+border.width: 1
+padding.width: 2
+window.handle.width: 3
+window.client.padding.width: 0
+window.client.padding.height: 0
+border.color: Black
+menu.overlap: 0
+
+
+# Fonts
+window.active.label.text.font:shadow=y:shadowtint=70:shadowoffset=1
+window.inactive.label.text.font:shadow=y:shadowtint=20:shadowoffset=1
+menu.items.font:
+menu.title.text.font:shadow=y:shadowtint=70
