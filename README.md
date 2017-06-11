@@ -2,6 +2,4 @@
 
 OpenBox
 
-You can see
-
-Screenshots in folders IMG...
+1. Screenshots in folders IMG...
