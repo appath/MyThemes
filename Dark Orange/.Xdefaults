@@ -9,5 +9,3 @@
 *scrollBar:		false
 *geometry:		116x24
 *internalBorder:	5
-*font:			xft:gmnterm
-*boldFont:		xft:gmnterm
