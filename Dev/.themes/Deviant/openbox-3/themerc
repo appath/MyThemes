@@ -1,0 +1,88 @@
+# GitHub 2017
+# Deviant Theme
+
+# Global
+
+border.Width: 1
+padding.width: 2
+
+window.client.padding.width: 0
+window.client.padding.height: 0
+
+window.active.border.color: #000000
+window.inactive.border.color: #000000
+window.frameColor: #eeeeee
+window.*.client.color: #eeeeee
+
+# Menu
+
+menu.overlap: 0
+menu.border.color: #000000
+
+menu.title.bg: Flat Gradient Split
+menu.title.bg.color: #313838
+menu.title.text.color: #c0c6c1
+
+menu.items.bg: Flat Solid
+menu.items.bg.color: #475c4d
+
+menu.items.text.color: #95a899
+menu.items.disabled.text.color: #737573
+
+menu.items.active.bg: Flat Gradient Split
+menu.items.active.bg.color:  #d4dfd0
+menu.items.active.bg.colorTo: #475c4d
+menu.items.active.text.color: #000000
+
+# Window Title Justifcation
+
+menu.title.text.justify: Left
+
+# Window Title Justification
+
+window.label.text.justify: Right
+
+# Active Windows
+
+window.active.title.bg: Flat Gradient Vertical
+window.active.title.bg.color: #475c4d
+window.active.title.bg.colorTo: #05fac75 
+window.active.*.bg.border.color: #bfbfbf
+
+window.active.label.bg: Parentrelative
+window.active.label.text.color: #bfbfbf
+
+window.active.button.*.bg: Parentrelative
+window.active.button.*.image.color: #bfbfbf
+window.active.button.*.bg.border.color: #4e5860
+
+window.active.handle.bg: Flat Solid
+window.active.handle.bg.color: #465d4d
+window.*.grip.bg: Parentrelative
+window.handle.width: 2
+
+# Inactive Windows
+
+window.inactive.title.bg: Flat Gradient Vertical
+window.inactive.title.bg.color: #05cc47
+window.inactive.title.bg.colorTo: #05fac75
+window.inactive.*.border.color: #bfbfbf
+
+window.inactive.label.bg: Parentrelative
+window.inactive.label.text.color: #eeeeee
+
+window.inactive.button.*.bg: Parentrelative
+window.inactive.button.*.bg.color: #eeeeee
+window.inactive.button.*.image.color:  #b6b6b6
+window.inactive.button.*.bg.border.color: #c9c9c9
+
+window.inactive.handle.bg: Flat Solid
+window.inactive.handle.bg.color: #3f4f43
+window.inactive.grip.bg:  Parentrelative
+
+# Fonts
+
+window.active.label.text.font: shadow=y:shadowoffset=1:shadowtint=75
+window.inactive.label.text.font: shadow=y:shadowoffset=1:shadowtint=0
+menu.items.font: 
+menu.title.text.font: shadow=y:shadowoffset=1:shadowtint=75
