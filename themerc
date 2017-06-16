@@ -1,0 +1,185 @@
+# menu colors
+# e2000 openbox theme by Boris241
+
+# Window geometry
+# Classes that derive from this abstract base class define geometric shapes.
+# Geometry objects can be used for clipping.
+
+padding.width: 0
+padding.height: 0
+border.width: 1
+window.client.padding.width: 0
+window.client.padding.height: 0
+window.handle.width: 0
+
+# Menu geometry
+
+menu.border.width: 1
+menu.overlap.x: 0
+menu.overlap.y: 0
+
+# Border colors
+
+window.active.border.color: #282a2e
+window.inactive.border.color: #1d1f21
+menu.border.color: #282a2e
+
+window.active.client.color: #282a2e
+window.inactive.client.color: #1d1f21
+
+# Text shadows
+
+window.active.label.text.font: shadow=n
+window.inactive.label.text.font: shadow=n
+menu.items.font: shadow=n
+menu.title.text.font: shadow=n
+
+# Window title justification
+
+window.label.text.justify: Left
+
+# Active window
+
+window.active.title.bg: Flat
+window.active.title.bg.color: #999999
+window.active.title.bg.interlace.color: #999999
+
+window.active.label.bg: Flat
+window.active.label.text.color: #999999
+
+window.active.handle.bg: Flat
+window.active.handle.bg.color: #999999
+
+window.active.grip.bg: Flat
+window.active.grip.bg.color: #999999
+
+window.active.button.unpressed.bg: Flat
+window.active.button.unpressed.bg.color: #101010
+window.active.button.unpressed.bg.border.color: #333333
+window.active.button.unpressed.image.color: #333333
+
+window.active.button.pressed.bg: Flat
+window.active.button.pressed.bg.color: #101010
+window.active.button.pressed.bg.border.color: #999999
+window.active.button.pressed.image.color: #999999
+
+window.active.button.disabled.bg: Flat
+window.active.button.disabled.bg.color: #101010
+window.active.button.disabled.bg.border.color: #333333
+window.active.button.disabled.image.color: #333333
+
+window.active.button.hover.bg: Flat
+window.active.button.hover.bg.color: #101010
+window.active.button.hover.bg.border.color: #999999
+window.active.button.hover.image.color: #999999
+
+window.active.button.toggled.unpressed.bg: Flat
+window.active.button.toggled.unpressed.bg.color: #101010
+window.active.button.toggled.unpressed.bg.border.color: #333333
+window.active.button.toggled.unpressed.image.color: #333333
+
+window.active.button.toggled.pressed.bg: Flat
+window.active.button.toggled.pressed.bg.color: #101010
+window.active.button.toggled.pressed.bg.border.color: #999999
+window.active.button.toggled.pressed.image.color: #999999
+
+window.active.button.toggled.hover.bg: Flat
+window.active.button.toggled.hover.bg.color: #101010
+window.active.button.toggled.hover.bg.border.color: #999999
+window.active.button.toggled.hover.image.color: #999999
+
+# Inactive windows
+
+window.inactive.title.bg: Flat 
+window.inactive.title.bg.color: #333333
+
+window.inactive.label.bg: Flat
+window.inactive.label.text.color: #333333
+
+window.inactive.handle.bg: Flat
+window.inactive.handle.bg.color: #333333
+
+window.inactive.grip.bg: Flat
+window.inactive.grip.bg.color: #333333
+
+window.inactive.button.unpressed.bg: Flat
+window.inactive.button.unpressed.bg.color: #333333
+window.inactive.button.unpressed.bg.border.color: #333333
+window.inactive.button.unpressed.image.color: #333333
+
+window.inactive.button.pressed.bg: Flat
+window.inactive.button.pressed.bg.color: #333333
+window.inactive.button.pressed.bg.border.color: #333333
+window.inactive.button.pressed.image.color: #333333
+
+window.inactive.button.disabled.bg: Flat
+window.inactive.button.disabled.bg.color: #333333
+window.inactive.button.disabled.bg.border.color: #333333
+window.inactive.button.disabled.image.color: #333333
+
+window.inactive.button.toggled.bg: Flat
+window.inactive.button.toggled.bg.color: #333333
+window.inactive.button.toggled.bg.border.color: #333333
+window.inactive.button.toggled.image.color: #333333
+
+window.inactive.button.hover.bg: Flat
+window.inactive.button.hover.bg.color: #333333
+window.inactive.button.hover.bg.border.color: #333333
+window.inactive.button.hover.image.color: #333333
+
+window.inactive.button.toggled.unpressed.bg: Flat
+window.inactive.button.toggled.unpressed.bg.color: #333333
+window.inactive.button.toggled.unpressed.bg.border.color: #333333
+window.inactive.button.toggled.unpressed.image.color: #333333
+
+window.inactive.button.toggled.pressed.bg: Flat
+window.inactive.button.toggled.pressed.bg.color: #333333
+window.inactive.button.toggled.pressed.bg.border.color: #333333
+window.inactive.button.pressed.toggled.image.color: #333333
+
+window.inactive.button.toggled.hover.bg: Flat
+window.inactive.button.toggled.hover.bg.color: #333333
+window.inactive.button.toggled.hover.bg.border.color: #333333
+window.inactive.button.toggled.hover.image.color: #333333
+
+# Menus
+# Internal menus palette
+
+menu.title.bg: Flat
+menu.title.bg.color: #101010
+menu.title.text.color: #999999
+menu.title.text.justify: Left
+
+menu.separator.color: #5e8d87
+menu.separator.width: 1
+menu.separator.padding.width: 4
+menu.separator.padding.height: 2
+
+menu.items.bg: Flat
+menu.items.bg.color: #101010
+menu.items.text.color: #999999
+menu.items.disabled.text.color: #333333
+
+menu.items.active.bg: Flat
+menu.items.active.bg.color: #1d1f21
+menu.items.active.text.color: #999999
+menu.items.active.disabled.text.color: #333333
+
+
+# OSD
+# The number of windows monitors
+
+osd.border.width: 1
+osd.border.color:  #282a2e
+
+osd.bg: Flat
+osd.bg.color: #101010
+osd.bg.border.color: #999999
+osd.label.bg: Parentrelative 
+osd.label.text.color: #999999
+
+osd.hilight.bg: Flat
+osd.hilight.bg.color: #1d1f21
+
+osd.unhilight.bg: Flat
+osd.unhilight.bg.color: #101010
