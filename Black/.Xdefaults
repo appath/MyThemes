@@ -1,0 +1,7 @@
+# Xdefaults
+#include "/home/user/bin/colors/theme04.colors"
+*scrollBar:		false
+*geometry:		116x24
+*internalBorder: 	5
+*font:			xft:gmnterm
+*boldFont:		xft:gmnterm

@@ -1,0 +1,88 @@
+# Tint2
+# Colors
+rounded = 0                                                                   
+border_width = 0
+background_color = #ffffff 100
+border_color = #ffffff 100
+
+rounded = 0
+border_width = 0
+background_color = #ffffff 100
+border_color = #ffffff 6
+
+rounded = 0
+border_width = 4
+background_color = #000000 100
+background_color_hover = #000000 100
+border_color = #000000 100
+border_sides = B
+ 
+rounded = 0
+border_width = 0
+background_color = #ffffff 100
+background_color_hover = #ffffff 100
+border_color = #51C4D4 100
+
+# Panel
+panel_items = TSBC
+panel_monitor = 1
+panel_position = top horizontal
+panel_size = 100% 25
+panel_margin = 0 0
+panel_padding = 0 0 0
+font_shadow = 0
+panel_background_id = 4
+wm_menu = 1
+autohide = 0
+autohide_show_timeout = 0.3 
+autohide_hide_timeout = 0.1
+autohide_height = 2 
+
+# Taskbar
+taskbar_mode = single_monitor
+taskbar_padding = 0 0 0
+taskbar_background_id = 1
+task_icon = 0
+task_text = 1
+task_width = 140
+task_centered = 104417B
+task_padding = 4 3
+task_font = Fira sans regular 8
+task_font_color = #1c1c1c 100
+task_active_font_color = #ffffff 100
+task_background_id = 2
+task_active_background_id = 3
+
+# Systray
+systray_padding = 4 4 5
+systray_background_id = 4
+
+# Clock
+time1_format =// %a %d %b  %H:%M
+time1_font = Fira sans regular 8
+clock_font_color = #1c1c1c 100
+clock_padding = 10 0
+clock_background_id = 4
+clock_lclick_command = orage
+
+# Battery
+battery = 1
+battery_low_status = 15
+battery_low_cmd = notify-send "battery low"
+bat1_font = sans 7.5
+bat2_font = sans 0
+battery_font_color = #343434 100
+battery_padding = 1 0
+battery_background_id = 4
+
+# Tooltip
+tooltip_background_id = 4
+tooltip_font_color = #1c1c1c 100
+tooltip_font =  Fira sans regular 8
+
+# Mouse
+mouse_middle = close
+mouse_right = none
+mouse_scroll_up = prev_task
+mouse_scroll_down = next_task
+
