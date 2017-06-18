@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Tint2 Openbox Menu
+Comment=Tint2 Openbox Menu
+X-GNOME-FullName=Openbox Menu
+Exec=xdotool key super+Escape
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/home/user/.icons/start_menu.png
+Categories=Menu;
+StartupNotify=true
