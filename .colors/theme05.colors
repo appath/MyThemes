@@ -1,0 +1,36 @@
+# Colors
+*.foreground:   #deded6
+*.background:   #121417
+*.cursorColor:  #deded6
+
+# Black
+*color0:       #2b3135
+*color8:       #4c5356
+
+# Red
+*color1:       #8fa1b3
+*color9:       #8fa1b3
+
+# Green
+*color2:       #769070
+*color10:      #769070
+
+# Yellow
+*color3:       #4f5b66
+*color11:      #4f5b66
+
+# Blue
+*color4:       #607a86
+*color12:      #607a86
+
+# Magenta
+*color5:       #80757e
+*color13:      #80757e
+
+# Cyan
+*color6:       #60867f
+*color14:      #60867f
+
+# White
+*color7:       #deded6
+*color15:      #deded6
