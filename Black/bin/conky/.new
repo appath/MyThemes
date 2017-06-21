@@ -1,0 +1,53 @@
+conky.config = {
+	background = false,
+	update_interval = 1,
+
+	override_utf8_locale = true,
+
+	double_buffer = true,
+	no_buffers = true,
+
+	text_buffer_size = 2048,
+	imlib_cache_size = 0,
+
+
+	own_window = true,
+	own_window_type = 'override',
+	own_window_transparent = true,
+	own_window_hints = 'undecorated,sticky,skip_taskbar,skip_pager,below',
+
+	border_inner_margin = 0,
+	border_outer_margin = 0,
+	maximum_width = 1420,
+	minimum_width = 1420, minimum_height = 850,
+
+
+	alignment = 'bottom_left',
+	gap_x = 462,--Vm380, Vr1238, Vl-40, Hr915, Hmr 780 Hbr 900
+	gap_y = -610,--Vb-520, Vt70 Ht-136, Hb-617, Hmr -240 Hbr -540
+
+	draw_shades = true,
+	draw_outline = false,
+	draw_borders = false,
+	draw_graph_borders = false,
+
+	use_xft = true,
+	font = 'poky:size=12',
+	xftalpha = 0,02,
+
+	uppercase = false,
+
+	default_color = '#FBFBFB',
+
+-- — Lua Load — #
+	lua_load = 'bin/conky/rings.lua',
+	lua_draw_hook_pre = 'ring_stats',
+
+
+};
+
+conky.text = [[
+
+${image ~/bin/conky/bg.png -p 220,183}
+
+]];
