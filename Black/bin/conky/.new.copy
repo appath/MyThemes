@@ -1,5 +1,4 @@
 conky.config = {
-
 	background = false,
 	update_interval = 1,
 
@@ -11,6 +10,7 @@ conky.config = {
 	text_buffer_size = 2048,
 	imlib_cache_size = 0,
 
+
 	own_window = true,
 	own_window_type = 'override',
 	own_window_transparent = true,
@@ -20,6 +20,7 @@ conky.config = {
 	border_outer_margin = 0,
 	maximum_width = 1720,
 	minimum_width = 1720, minimum_height = 850,
+
 
 	alignment = 'bottom_left',
 	gap_x = 62,--Vm380, Vr1238, Vl-40, Hr915, Hmr 780 Hbr 900
@@ -38,8 +39,10 @@ conky.config = {
 
 	default_color = '#fbfbfb',
 
+-- — Lua Load — #
 	lua_load = 'bin/conky/rings.lua',
 	lua_draw_hook_pre = 'ring_stats',
+
 
 };
 

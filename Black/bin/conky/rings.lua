@@ -13,12 +13,12 @@ settings_table = {
         {
 		name='downspeedf',
 		arg='enp0s3',
-		max=870,
+		max=100,
 		bg_colour=0xecedee,
 		bg_alpha=0.3,
 		fg_colour=0xffffff,
                 fg_alpha=0.6,
-		x=236, y=200.4,
+		x=40, y=200.4,
 		radius=16,
 		thickness=3,
 		start_angle=0,
@@ -27,12 +27,12 @@ settings_table = {
 {
                 name='upspeedf',
 		arg='enp0s3',
-		max=112,
+		max=100,
 		bg_colour=0xecedee,
 		bg_alpha=0.3,
 		fg_colour=0xffffff,
                 fg_alpha=0.6,
-		x=284, y=200.4,
+		x=88, y=200.4,
 		radius=16,
 		thickness=3,
 		start_angle=0,
@@ -43,13 +43,11 @@ settings_table = {
 
 require 'cairo'
 
-
 function rgb_to_r_g_b(colour,alpha)
 	return ((colour / 0x10000) % 0x100) / 255., ((colour / 0x100) % 0x100) / 255., (colour % 0x100) / 255., alpha
 end
 
 function draw_ring(cr,t,pt)
-
 
 	local w,h=conky_window.width,conky_window.height
 	
@@ -87,13 +85,10 @@ function conky_ring_stats()
 		
 		draw_ring(cr,pct,pt)
 	end
- 
-
 
 	if conky_window==nil then return end
 	local cs=cairo_xlib_surface_create(conky_window.display,conky_window.drawable,conky_window.visual, conky_window.width,conky_window.height)
 	
-
 	local cr=cairo_create(cs)	
 	
 	local updates=conky_parse('${updates}')
