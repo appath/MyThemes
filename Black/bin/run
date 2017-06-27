@@ -1,0 +1,5 @@
+#!/bin/bash
+rofi.color-enabled: 	true
+rofi.color-normal:	argb:00000000, #d8dee9, argb:00000000, #ffa200, #000000
+exec $(rofi -show run -width 400 -lines 5 -font "Fira 7" -hide-scrollbar -glob -separator-style "dash")
+

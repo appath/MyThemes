@@ -79,6 +79,9 @@
     <item label="Openbox Editor Menu">
       <action name="Execute">
         <execute>obmenu3</execute>
+        <startupnotify>
+          <enabled>yes </enabled>
+        </startupnotify>
       </action>
     </item>
     <item label="Openbox Configuration">
@@ -120,6 +123,11 @@
     <item label="urxvt :.">
       <action name="Execute">
         <execute>urxvt</execute>
+      </action>
+    </item>
+    <item label="Search">
+      <action name="Execute">
+        <command>bin/run &amp;</command>
       </action>
     </item>
     <item label="SSH">
