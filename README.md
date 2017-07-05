@@ -15,4 +15,5 @@ Screenshots in folders IMG...
 
 xrdb -merge .Xresources | .Xdefaults
 
-Pkg: xorg-xrdb
+Pkg: xorg-xrdb |
+https://en.wikipedia.org/wiki/Xrdb
