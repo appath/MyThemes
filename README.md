@@ -9,7 +9,9 @@ Screenshots in folders IMG...
 
 *boldFont:	  xft:(name_font):size=8
 
-xinitrc
+======================
+
+~/.xinitrc
 
 xrdb -merge .Xresources | .Xdefaults
 
