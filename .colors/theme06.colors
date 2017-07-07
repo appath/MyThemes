@@ -1,0 +1,27 @@
+# GitHub | DotShare
+*.background:    #111111
+*.foreground:    #d8d8d8
+# Black
+*color0:         #2e1f1f
+*color8:         #422d2d
+# Red
+*color1:         #aa0e50
+*color9:         #be0e50
+# Green
+*color2:         #1dcc9f
+*color10:        #1fd9a9
+# Yellow
+*color3:         #27c282
+*color11:        #2cdB93
+# Blue
+*color4:         #7182a8
+*color12:        #8194bf
+# Magenta
+*color5:         #a673a6
+*color13:        #7f5aa1
+# Cyan
+*color6:         #6da3a1
+*color14:        #669997
+# White
+*color7:         #b7bbbd
+*color15:        #d9d9d9
