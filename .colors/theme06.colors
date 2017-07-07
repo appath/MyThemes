@@ -1,6 +1,6 @@
 # GitHub | DotShare
 *.background:    #111111
-*.foreground:    #d8d8d8
+*.foreground:    #ecedee
 # Black
 *color0:         #2e1f1f
 *color8:         #422d2d
