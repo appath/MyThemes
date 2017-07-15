@@ -2,7 +2,7 @@ OpenBox ::
 
 Screenshots in folders IMG...
 
-## Fram
+## Farm
 ![Farm](https://github.com/appath/MyThemes/blob/master/IMG/Farm.jpg)
 
 ## Exploit
