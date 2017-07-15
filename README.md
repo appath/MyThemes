@@ -3,6 +3,21 @@
 OpenBox
 Screenshots in folders IMG...
 
+## Fram
+![Farm](https://github.com/appath/MyThemes/blob/master/IMG/Farm.jpg)
+
+## Exploit
+![Exploit](https://github.com/appath/MyThemes/blob/master/IMG/Exploit.jpg)
+
+## Black
+![Black](https://github.com/appath/MyThemes/blob/master/IMG/Black.jpg)
+
+## Dev
+![Dev](https://github.com/appath/MyThemes/blob/master/IMG/Dev.png)
+
+## Dark-Orange
+![Dark-Orange](https://github.com/appath/MyThemes/blob/master/IMG/Dark-Orange.png)
+
 ~/.Xdefaults
 
 *font:   xft:(name_font):size=8
