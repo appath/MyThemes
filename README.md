@@ -31,3 +31,8 @@ xrdb -merge .Xresources | .Xdefaults
 
 Pkg: xorg-xrdb |
 https://en.wikipedia.org/wiki/Xrdb
+
+## Social
+
+* [DeviantArt](http://boris241.deviantart.com/) Here I post different topics.
+* [Google+](https://plus.google.com/u/0/106782122945207734872) //
