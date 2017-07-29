@@ -125,7 +125,7 @@ launcher_item_app = /usr/share/applications/tint2conf.desktop
 launcher_item_app = /usr/share/applications/xfce4-about.desktop
 
 # Clock
-time1_format = %I:%M%p
+time1_format = %R%p
 time2_format = 
 time1_font = PragmataPro Bold 12
 time1_timezone = 
