@@ -2,3 +2,4 @@
 # You may place a similar script in $HOME/.config/openbox/autostart
 # to run user-specific things.
 $HOME/Pictures/.fehbg &
+compton -c -t-5 -l-5 -r3 -C &
