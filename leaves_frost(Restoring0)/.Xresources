@@ -1,0 +1,16 @@
+!000909102
+#include "$HOME/.term/frost"
+*.dpi:				89
+*.depth:			32
+*.scrollBar:			true
+*.scrollBar_right:		true
+*.scrollStyle:			plain
+*.scrollColor:			#708895
+*.internalBorder:		12
+*termName:			rxvt-256color
+*loginShell:			true
+*font:				xft:PragmataPro:size=8
+*fontBold:			xft:PragmataPro:size=8
+*lineSpace:			1
+*letterSpace:			0
+*geometry:			116xx22
