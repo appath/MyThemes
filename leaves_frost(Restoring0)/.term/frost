@@ -1,2 +1,3 @@
-*.background:			[95]#1b1f23
+!Transparency BackGround [97]#989898 0-100. 
+*.background:			#1b1f23
 *.foreground:			#ffffff
