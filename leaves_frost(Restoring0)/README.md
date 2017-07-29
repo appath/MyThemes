@@ -6,3 +6,5 @@
 <0-0> Made by (X)
 
 <0-1> What did I manage to do - Obmenu, tint, Trem, colors and icons xbm ... (X)
+
+#### I did not make an exact copy, the theme that I made to order.
