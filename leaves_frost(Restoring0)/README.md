@@ -1,8 +1,7 @@
 #### leaves_frost Restoring 0-1
-![leaves_frost](https://github.com/appath/MyThemes/blob/master/leaves_frost(Restoring0)/23_18.png)
+![leaves_frost](https://github.com/appath/MyThemes/blob/master/leaves_frost(Restoring0)/2_15.png)
 
 #### I did not make an exact copy, the theme that I made to order. Menus Openbox and buttons they will be different from that topic.
-*21:43 ===
 
 <0-0> Made by (X)
 
