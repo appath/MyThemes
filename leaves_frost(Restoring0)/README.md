@@ -11,7 +11,7 @@
 12 This month will continue 2017
 
 #### PKG
-tint2, obmenu, urxvt and neofetch
+tint2, openbox, urxvt and neofetch
 
 #### Time Tint
 
