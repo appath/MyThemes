@@ -2,6 +2,9 @@ OpenBox ::
 
 Screenshots in folders IMG...
 
+#### Leaves Frost
+![Leaves Frost](https://github.com/appath/MyThemes/blob/master/IMG/leaves_frost.png)
+
 #### Farm
 ![Farm](https://github.com/appath/MyThemes/blob/master/IMG/Farm.jpg)
 
