@@ -36,6 +36,8 @@ The essence of the script is that from the names of layouts create files to repl
 
 parameters:
 
+Key_Flags.sh [OPTIONS]
+
 --fc         - font color
 
 --bc         - background color
