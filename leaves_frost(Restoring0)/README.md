@@ -32,7 +32,7 @@ Add pictures for layout
 #### Script
 The essence of the script is that from the names of layouts create files to replace the standard layout flags:
 
-(https://github.com/appath/MyThemes/blob/master/leaves_frost(Restoring0)/Key_Flags.sh)
+* [Key Flags](https://github.com/appath/MyThemes/blob/master/leaves_frost(Restoring0)/Key_Flags.sh)
 
 parameters:
 
@@ -46,9 +46,8 @@ parameters:
 
 --bold       - use bold font
 
---format     - type of string formatting
-
-               0 - us, 1 - US, 2 - Us (Default)
+--format     - type of string formatting 
+0 - us, 1 - US, 2 - Us (Default)
                
 -h | --help  - show this help
 
