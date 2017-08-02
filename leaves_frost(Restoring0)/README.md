@@ -31,7 +31,28 @@ Add pictures for layout
 
 #### Script
 The essence of the script is that from the names of layouts create files to replace the standard layout flags:
-![Key Flags Script](https://github.com/appath/MyThemes/blob/master/leaves_frost(Restoring0)/Key_Flags.sh)
+
+(https://github.com/appath/MyThemes/blob/master/leaves_frost(Restoring0)/Key_Flags.sh)
+
+parameters:
+
+--fc         - font color
+
+--bc         - background color
+
+--sc         - shadow color
+
+--dir        - output directory
+
+--bold       - use bold font
+
+--format     - type of string formatting
+
+               0 - us, 1 - US, 2 - Us (Default)
+               
+-h | --help  - show this help
+
+Zen help
 
 #### PKG
 tint2, openbox, urxvt and neofetch
