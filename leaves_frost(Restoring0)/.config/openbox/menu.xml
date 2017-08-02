@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <openbox_menu xmlns="http://openbox.org/3.4/menu">
 	<menu id="apps-net-menu" label="Internet">
+		<item label="E-Mail">
+			<action name="Execute">
+				<command>New Command</command>
+			</action>
+		</item>
 		<item label="Weechat">
 			<action name="Execute">
 				<command/>
@@ -11,7 +16,7 @@
 		</item>
 		<item label="Google Chrome">
 			<action name="Execute">
-				<command>google-chrome</command>
+				<command>google-chrome-stable</command>
 				<startupnotify>
 					<enabled>yes</enabled>
 					<wmclass>Opera</wmclass>
@@ -137,14 +142,14 @@
 	</menu>
 	<menu id="root-menu" label="Openbox 3">
 		<separator label="Frost"/>
+		<item label="Search">
+			<action name="Execute">
+				<execute/>
+			</action>
+		</item>
 		<item label="urxvt">
 			<action name="Execute">
 				<execute>urxvt</execute>
-			</action>
-		</item>
-		<item label="Search">
-			<action name="Execute">
-				<execute>gmrun</execute>
 			</action>
 		</item>
 		<menu id="apps-net-menu"/>
