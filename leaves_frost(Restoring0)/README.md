@@ -10,6 +10,23 @@
 ???)(!!!
 12 This month will continue 2017
 
+At the expense of keyboard layout.
+Installation is simple either from off-site repositories or AUR it is possible from source.
+Set from Source
+
+GIT Clone
+`https://github.com/zen-tools/gxkb`
+
+```$ cd gxkb```
+```$ ./autogen.sh```
+```$ ./configure```
+```$ make && sudo make install```
+
+Now you just have to adjust the layout and generate images with text code for gxkb.
+
+Add pictures for layout
+
+
 #### PKG
 tint2, openbox, urxvt and neofetch
 
