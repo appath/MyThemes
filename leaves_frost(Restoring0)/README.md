@@ -18,8 +18,11 @@ GIT Clone
 `https://github.com/zen-tools/gxkb`
 
 ```$ cd gxkb```
+
 ```$ ./autogen.sh```
+
 ```$ ./configure```
+
 ```$ make && sudo make install```
 
 Now you just have to adjust the layout and generate images with text code for gxkb.
