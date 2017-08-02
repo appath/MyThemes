@@ -56,7 +56,7 @@ Key_Flags.sh [OPTIONS]
 Zen help
 
 #### PKG
-tint2, openbox, urxvt and neofetch
+tint2, openbox, urxvt, gxkb and neofetch
 
 #### Time Tint
 
