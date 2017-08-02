@@ -29,6 +29,9 @@ Now you just have to adjust the layout and generate images with text code for gx
 
 Add pictures for layout
 
+#### Script
+The essence of the script is that from the names of layouts create files to replace the standard layout flags:
+![Key Flags Script](https://github.com/appath/MyThemes/blob/master/leaves_frost(Restoring0)/Key_Flags.sh)
 
 #### PKG
 tint2, openbox, urxvt and neofetch
