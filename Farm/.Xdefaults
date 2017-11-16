@@ -1,5 +1,5 @@
 # GitHub
-#include "/home/user/bin/colors/theme00.colors"
+#include "/home/user/bin/colors/.terminal.bbit"
 ! perl extensions (tabs, clickable URLs, yankable URLs)
 *perl-ext-common: 	...,tabbed,...
 *tabbed.tabbar-fg:	-2
