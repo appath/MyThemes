@@ -1,6 +1,6 @@
 # Xdefaults
 #include "/home/user/bin/rofi.conf"
-#include "/home/user/bin/colors/theme04.colors"
+#include "/home/user/bin/colors/.termianl.sulfur"
 *scrollBar:		false
 *geometry:		116x24
 *internalBorder: 	5
