@@ -3,7 +3,7 @@ OpenBox ::
 Screenshots in folders IMG...
 
 #### Shit (s.t.y.l.e.)
-This is the Port for OpenBox-a `S.H.I.T author: [jeff-saiint](https://jeff-saiint.deviantart.com/art/S-H-I-T-183482508)`
+This is the Port for OpenBox-a `S.H.I.T author:` [jeff-saiint](https://jeff-saiint.deviantart.com/art/S-H-I-T-183482508)
 ![Shit (s.t.y.l.e.)](https://github.com/appath/MyThemes/blob/master/IMG/Shit(s.t.y.l.e.).jpg)
 
 #### Leaves Frost
