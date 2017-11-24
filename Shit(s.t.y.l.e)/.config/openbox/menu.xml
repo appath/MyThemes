@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openbox_menu xmlns="http://openbox.org/3.4/menu">
+	<menu id="apps-net-menu" label="Internet">
+		<item label="Luakit">
+			<action name="Execute">
+				<command>luakit</command>
+				<startupnotify>
+					<enabled>yes</enabled>
+					<wmclass>Opera</wmclass>
+				</startupnotify>
+			</action>
+		</item>
+		<item label="Transmission">
+			<action name="Execute">
+				<execute>command</execute>
+			</action>
+		</item>
+		<item label="Epiphany">
+			<action name="Execute">
+				<command>epiphany</command>
+				<startupnotify>
+					<enabled>yes</enabled>
+				</startupnotify>
+			</action>
+		</item>
+		<item label="Chat">
+			<action name="Execute">
+				<command>xchat</command>
+				<startupnotify>
+					<enabled>yes</enabled>
+				</startupnotify>
+			</action>
+		</item>
+	</menu>
+	<menu id="apps-graphics-menu" label="Graphics">
+		<item label="Gimp">
+			<action name="Execute">
+				<command>gimp</command>
+				<startupnotify>
+					<enabled>yes</enabled>
+				</startupnotify>
+			</action>
+		</item>
+		<item label="Krita">
+			<action name="Execute">
+				<command>dia</command>
+				<startupnotify>
+					<enabled>yes</enabled>
+				</startupnotify>
+			</action>
+		</item>
+		<item label="Blender">
+			<action name="Execute">
+				<command>inkscape</command>
+				<startupnotify>
+					<enabled>yes</enabled>
+				</startupnotify>
+			</action>
+		</item>
+	</menu>
+	<menu id="apps-multimedia-menu" label="Multimedia">
+		<item label="Amarok">
+			<action name="Execute">
+				<command>amarok</command>
+				<startupnotify>
+					<enabled>yes</enabled>
+				</startupnotify>
+			</action>
+		</item>
+		<item label="Rhythmbox">
+			<action name="Execute">
+				<command>rhythmbox</command>
+				<startupnotify>
+					<enabled>yes</enabled>
+				</startupnotify>
+			</action>
+		</item>
+		<item label="K3b">
+			<action name="Execute">
+				<command>k3b</command>
+				<startupnotify>
+					<enabled>yes</enabled>
+				</startupnotify>
+			</action>
+		</item>
+		<item label="MPlayer">
+			<action name="Execute">
+				<command>gmplayer</command>
+				<startupnotify>
+					<enabled>yes</enabled>
+					<wmclass>MPlayer</wmclass>
+				</startupnotify>
+			</action>
+		</item>
+		<item label="Totem">
+			<action name="Execute">
+				<command>totem</command>
+				<startupnotify>
+					<enabled>yes</enabled>
+				</startupnotify>
+			</action>
+		</item>
+	</menu>
+	<menu id="app-idtest-menu" label="IDTest">
+		<item label="Python">
+			<action name="Execute">
+				<execute>urxvt -e python</execute>
+			</action>
+		</item>
+	</menu>
+	<menu id="system-menu" label="System">
+		<item label="Command">
+			<action name="Execute">
+				<execute>urxvt</execute>
+			</action>
+		</item>
+		<item label="File Manager">
+			<action name="Execute">
+				<execute>urxvt -g 114x45 -e lfm</execute>
+			</action>
+		</item>
+		<item label="Openbox Configuration Manager">
+			<action name="Execute">
+				<execute>obconf</execute>
+			</action>
+		</item>
+		<item label="Openbox Configuration Menu">
+			<action name="Execute">
+				<execute>obmenu</execute>
+			</action>
+		</item>
+		<item label="GTK Configuration">
+			<action name="Execute">
+				<command>lxappearance</command>
+				<startupnotify>
+					<enabled>yes</enabled>
+				</startupnotify>
+			</action>
+		</item>
+		<item label="My Computer">
+			<action name="Execute">
+				<execute>thunar</execute>
+			</action>
+		</item>
+		<separator/>
+		<item label="Reconfigure Openbox">
+			<action name="Reconfigure"/>
+		</item>
+	</menu>
+	<menu id="root-menu" label="Openbox 3">
+		<item label="Search">
+			<action name="Execute">
+				<execute/>
+			</action>
+		</item>
+		<separator label="Applications"/>
+		<menu id="apps-net-menu"/>
+		<menu id="apps-graphics-menu"/>
+		<menu id="apps-multimedia-menu"/>
+		<menu id="app-idtest-menu"/>
+		<separator label="System"/>
+		<menu id="system-menu"/>
+		<item label="Log Out">
+			<action name="Exit">
+				<prompt>yes</prompt>
+			</action>
+		</item>
+	</menu>
+</openbox_menu>

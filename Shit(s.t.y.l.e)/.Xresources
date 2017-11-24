@@ -1,0 +1,35 @@
+#include "/home/user/.terminal.sulfur"
+*.dpi:			89
+*termName:		rxvt-256color
+*font:			xft:PragmataPro:size=8
+*fontBold:		xft:PragmataPro:size=8
+*.depth:		32
+*lineSpace:		1
+*letterSpace:		0
+*geometry:		135x11
+*.scrollBar:		false
+*.cursorBlink:		true
+*loginShell:		true
+*.internalBorder:	16
+
+# Term colors
+*background:		bg
+*foreground:		fg
+*cursorColor:		blk
+
+*color0:		bblk
+*color8:		bbblk
+*color1:		red
+*color9:		rred
+*color2:		green
+*color10:		green
+*color3:		yellow
+*color11:		yellow
+*color4:		blue
+*color12:		blue
+*color5:		magenta
+*color13:		magenta
+*color6:		cyan
+*color14:		cyan
+*color7:		white
+*color15:		wwhite
