@@ -13,8 +13,8 @@ panel
 		right background.png
 		right_corner background.png
 		font artwiz nu 7
-			color 120 120 120
-			offset 0 0
+		color 120 120 120
+		offset 0 0
 		align center
 		
 	pressed
@@ -24,8 +24,8 @@ panel
 		right background.png
 		right_corner background.png
 		font artwiz nu 7
-			color 255 255 255
-			offset 0 0
+		color 255 255 255
+		offset 0 0
 		align center
 
 launchbar
@@ -39,8 +39,8 @@ taskbar
 		center background.png
 		right background.png
 		font artwiz nu 7
-			color 255 255 255
-			offset 5 0
+		color 255 255 255
+		offset 5 0
 		icon_offset 0 0
 		align left
 
@@ -49,8 +49,8 @@ taskbar
 		center button-prelight.png
 		right button-prelight.png
 		font artwiz nu 7
-			color 255 255 255
-			offset 5 0
+		color 255 255 255
+		offset 5 0
 		icon_offset 0 0
 		align left
 	
@@ -59,8 +59,8 @@ taskbar
 		center button-active.png
 		right button-active.png
 		font artwiz nu 7
-			color 255 255 255
-			offset 5 0
+		color 255 255 255
+		offset 5 0
 		icon_offset 0 0
 		align left
 		
@@ -69,8 +69,8 @@ taskbar
 		center button-active.png
 		right button-active.png
 		font artwiz nu 7
-			color 255 255 255
-			offset 5 0
+		color 255 255 255
+		offset 5 0
 		icon_offset 0 0
 		align left
 
@@ -86,9 +86,9 @@ empty 8
 
 clock	
 	font artwiz nu 7
-		color 255 255 255
-		offset 0 0
-		align center
+	color 255 255 255
+	offset 0 0
+	align center
 
 	time_format  ' %H:%M '
 
