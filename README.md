@@ -12,9 +12,6 @@ This is the Port for OpenBox-a `S.H.I.T author:` [jeff-saiint](https://jeff-saii
 #### Farm
 ![Farm](https://github.com/appath/MyThemes/blob/master/IMG/Farm.jpg)
 
-#### Exploit
-![Exploit](https://github.com/appath/MyThemes/blob/master/IMG/Exploit.jpg)
-
 #### Black
 ![Black](https://github.com/appath/MyThemes/blob/master/IMG/Black.jpg)
 
@@ -23,21 +20,6 @@ This is the Port for OpenBox-a `S.H.I.T author:` [jeff-saiint](https://jeff-saii
 
 #### Dark-Orange
 ![Dark-Orange](https://github.com/appath/MyThemes/blob/master/IMG/Dark-Orange.png)
-
-~/.Xdefaults
-
-*font:   xft:(name_font):size=8
-
-*boldFont:	  xft:(name_font):size=8
-
-======================
-
-~/.xinitrc
-
-xrdb -merge .Xresources | .Xdefaults
-
-Pkg: xorg-xrdb |
-https://en.wikipedia.org/wiki/Xrdb
 
 #### Social
 
