@@ -2,8 +2,8 @@ OpenBox ::
 
 Screenshots in folders IMG...
 
-#### Light-Beam (BB)
-In the weed `Theme`
+#### Light-Beam (LB)
+In the weed `Theme` LB
 ![Light-Beam](IMG/light-beam.jpg)
 
 #### Shit (s.t.y.l.e.)
