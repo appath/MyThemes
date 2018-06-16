@@ -2,24 +2,28 @@ OpenBox ::
 
 Screenshots in folders IMG...
 
+#### Light-Beam (BB)
+In the weed `Theme`
+![Light-Beam](IMG/light-beam.jpg)
+
 #### Shit (s.t.y.l.e.)
 This is the Port for OpenBox-a `S.H.I.T author:` [jeff-saiint](https://jeff-saiint.deviantart.com/art/S-H-I-T-183482508)
-![Shit (s.t.y.l.e.)](https://github.com/appath/MyThemes/blob/master/IMG/Shit(s.t.y.l.e.).jpg)
+![Shit (s.t.y.l.e.)](IMG/Shit(s.t.y.l.e.).jpg)
 
 #### Leaves Frost
-![Leaves Frost](https://github.com/appath/MyThemes/blob/master/IMG/leaves_frost.png)
+![Leaves Frost](IMG/leaves_frost.png)
 
 #### Farm
-![Farm](https://github.com/appath/MyThemes/blob/master/IMG/Farm.jpg)
+![Farm](IMG/Farm.jpg)
 
 #### Black
-![Black](https://github.com/appath/MyThemes/blob/master/IMG/Black.jpg)
+![Black](IMG/Black.jpg)
 
 #### Dev
-![Dev](https://github.com/appath/MyThemes/blob/master/IMG/Dev.png)
+![Dev](IMG/Dev.png)
 
 #### Dark-Orange
-![Dark-Orange](https://github.com/appath/MyThemes/blob/master/IMG/Dark-Orange.png)
+![Dark-Orange](IMG/Dark-Orange.png)
 
 #### Social
 
