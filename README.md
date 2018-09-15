@@ -1,4 +1,4 @@
-OpenBox ::
+OpenBox :: Desktops
 
 Screenshots in folders IMG...
 
