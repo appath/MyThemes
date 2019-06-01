@@ -3,7 +3,7 @@ OpenBox :: Desktops
 Screenshots in folders IMG...
 
 #### Kraken
-Demo `Theme` screenshot.
+Demo `Theme`.
 ![Kraken](IMG/kraken.jpg)
 
 #### Light-Beam (LB)
