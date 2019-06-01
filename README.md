@@ -2,6 +2,10 @@ OpenBox :: Desktops
 
 Screenshots in folders IMG...
 
+#### Bulb
+Recycled window `Theme` Bulb.
+![Bulb](IMG/bulb.jpg)
+
 #### Kraken
 Demo `Theme`.
 ![Kraken](IMG/kraken.jpg)
